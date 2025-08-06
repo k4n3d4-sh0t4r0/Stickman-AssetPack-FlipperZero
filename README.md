@@ -102,3 +102,6 @@ Move the Stickman folder to your asset_packs folder
 ![rfid](aseprite_and_png/Stickman/Icons/RFID/RFIDDolphinSend_97x61.png)
 
 ![rfid](Images/rfid-raw.png)
+
+### Level Up Animation
+![Animation](Images/level_up.gif)
