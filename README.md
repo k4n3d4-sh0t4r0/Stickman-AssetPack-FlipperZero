@@ -75,7 +75,7 @@ Move the Stickman folder to your asset_packs folder
 ### iButton write
 ![write](aseprite_and_png/Stickman/Icons/iButton/iButtonDolphinVerySuccess_92x55.png)
 
-![write](Images/ibutton.png)
+![write](Images/iButton.png)
 
 ### Success
 ![success](aseprite_and_png/Stickman/Icons/Dolphin/DolphinSuccess_91x55.png)
@@ -90,7 +90,7 @@ Move the Stickman folder to your asset_packs folder
 ### Done
 ![done](aseprite_and_png/Stickman/Icons/Dolphin/DolphinDone_80x58.png)
 
-![done](Images/done.png)
+![done](Images/Done.png)
 
 ### IR Read
 ![read](aseprite_and_png/Stickman/Icons/Dolphin/DolphinReadingSuccess_59x63.png)
